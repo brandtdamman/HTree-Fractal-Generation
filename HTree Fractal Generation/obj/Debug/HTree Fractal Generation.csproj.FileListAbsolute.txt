@@ -1,0 +1,13 @@
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\bin\Debug\HTree Fractal Generation.exe.config
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\bin\Debug\HTree Fractal Generation.exe
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\bin\Debug\HTree Fractal Generation.pdb
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\MainWindow.g.cs
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\App.g.cs
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\HTree Fractal Generation_MarkupCompile.cache
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\HTree Fractal Generation_MarkupCompile.lref
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\MainWindow.baml
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\HTree Fractal Generation.g.resources
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\HTree_Fractal_Generation.Properties.Resources.resources
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\HTree Fractal Generation.csproj.GenerateResource.Cache
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\HTree Fractal Generation.exe
+C:\Development Code\CSHARP\HTree Fractal Generation\HTree Fractal Generation\obj\Debug\HTree Fractal Generation.pdb
